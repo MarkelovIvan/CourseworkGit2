@@ -4,10 +4,10 @@
 Посилання на файли в проєкті:
 
 
-[Makefile]()
+[Makefile](Makefile)
 
-[CmakeLists.txt]()
+[CmakeLists.txt](CMakeLists.txt)
 
-[rules.ninja]()
+[rules.ninja](build/build.ninja)
 
-[build.ninja]()
+[build.ninja](build/CMakeFiles/rules.ninja)
