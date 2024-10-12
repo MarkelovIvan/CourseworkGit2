@@ -1,0 +1,4 @@
+C:/CODE/CourseWorkGit/coursePart2/build/CMakeFiles/calculator.dir
+C:/CODE/CourseWorkGit/coursePart2/build/CMakeFiles/main.dir
+C:/CODE/CourseWorkGit/coursePart2/build/CMakeFiles/edit_cache.dir
+C:/CODE/CourseWorkGit/coursePart2/build/CMakeFiles/rebuild_cache.dir

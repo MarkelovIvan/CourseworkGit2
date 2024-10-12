@@ -1,0 +1,6 @@
+# ninja log v6
+21	67	7504514112156061	CMakeFiles/calculator.dir/subtract.c.obj	8172ff9a71c2a58a
+16	68	7504514112106094	CMakeFiles/calculator.dir/add.c.obj	a784b608aefb9dd8
+24	79	7504514112186454	CMakeFiles/main.dir/main.c.obj	494f436c17c54816
+69	139	7504514112622579	libcalculator.a	756dce8a8912d94b
+139	215	7504514113327758	main.exe	9bb0d9106967dbc3
